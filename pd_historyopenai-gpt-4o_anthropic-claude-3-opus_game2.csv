@@ -1,0 +1,45 @@
+round,agent,move
+1,Alice,Cooperate
+1,Bob,Cooperate
+2,Alice,Cooperate
+2,Bob,Cooperate
+3,Alice,Cooperate
+3,Bob,Cooperate
+4,Alice,Cooperate
+4,Bob,Cooperate
+5,Alice,Cooperate
+5,Bob,Cooperate
+6,Alice,Cooperate
+6,Bob,Cooperate
+7,Alice,Cooperate
+7,Bob,Cooperate
+8,Alice,Cooperate
+8,Bob,Cooperate
+9,Alice,Cooperate
+9,Bob,Cooperate
+10,Alice,Cooperate
+10,Bob,Cooperate
+11,Alice,Defect
+11,Bob,Cooperate
+12,Alice,Defect
+12,Bob,Cooperate
+13,Alice,Defect
+13,Bob,Defect
+14,Alice,Cooperate
+14,Bob,Cooperate
+15,Alice,Cooperate
+15,Bob,Cooperate
+16,Alice,Defect
+16,Bob,Cooperate
+17,Alice,Cooperate
+17,Bob,Defect
+18,Alice,Cooperate
+18,Bob,Defect
+19,Alice,Defect
+19,Bob,Defect
+20,Alice,Defect
+20,Bob,Cooperate
+
+Final scores: {'Alice': 58, 'Bob': 48}
+Agent1: Alice (openai/gpt-4o)
+Agent2: Bob (anthropic/claude-3-opus)
